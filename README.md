@@ -12,7 +12,7 @@ After this the pedestrian light goes red again, and in the end the main traffic 
 Between each of these changes is a delay, and the traffic light for the main road also has yellow phases in the
 sequence. Example (red – yellow – green – yellow – red or red – red+yellow – green – yellow – red, or what else might be the case).
 
-(<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>) 
+(<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>) </br>
 Use the following techniques to implement the System in a neat and easy to read way:
 - Use a timer rather than a delay() between each change.
 - Use a Finite State Machine (or more if you like) to implement the system.
