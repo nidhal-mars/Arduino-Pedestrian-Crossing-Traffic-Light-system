@@ -26,3 +26,5 @@ your loop().
 
 Video demonstration:
 https://youtu.be/Jwimdfsm9zc
+
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Jwimdfsm9zc/mqdefault.jpg)](http://www.youtube.com/watch?v=Jwimdfsm9zc "Traffic system Light")
