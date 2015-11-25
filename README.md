@@ -1,7 +1,8 @@
 # Arduino-Pedestrian-Crossing-Traffic-Light-system
 Pedestrian crossing traffic light system : </br>
 Your task is to use an Arduino, LEDs, resistors and buttons to build a simple Traffic light system on a Breadboard,
-and to program its logic.
+and to program its logic.</br>
+Example of mounting :
 
 ![alt tag](http://osoyoo.com/wp-content/uploads/2014/12/ped_traffic_light.jpg)
 
@@ -21,3 +22,7 @@ function called update_timer(), which uses a single delay() and updates a global
 you think you need. Then check and reset this global variable as you need in the rest of your program. There
 shouldn’t be a single other delay() in your program. As you can imagine, this function should be called regularly in
 your loop().
+
+
+Video demonstration:
+https://youtu.be/Jwimdfsm9zc
