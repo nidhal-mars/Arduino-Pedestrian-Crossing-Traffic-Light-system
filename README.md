@@ -1,4 +1,4 @@
-# Arduino-Traffic-Light-system
+# -Arduino-Pedestrian-Crossing-Traffic-Light-system
 Pedestrian crossing traffic light system : </br>
 Your task is to use an Arduino, LEDs, resistors and buttons to build a simple Traffic light system on a Breadboard,
 and to program its logic.
